@@ -61,5 +61,6 @@ function mostrarCompras(carrinho){
     
 
 }
+console.log('nova att')
 
 
