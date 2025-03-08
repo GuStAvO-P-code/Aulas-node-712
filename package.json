@@ -1,16 +1,5 @@
 {
   "dependencies": {
-    "readline": "^1.3.0"
-  },
-  "name": "gustavo.p",
-  "version": "1.0.0",
-  "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+    "express": "^4.21.2"
+  }
 }
